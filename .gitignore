@@ -1,0 +1,11 @@
+*.db
+*.db
+*.jar
+*.lst
+*.iml
+*.idea
+uiDesigner.xml
+.vscode/launch.json
+/target/
+/test-output/
+/.idea/
